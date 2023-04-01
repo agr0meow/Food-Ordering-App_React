@@ -7,7 +7,7 @@
 4) Функционал добавления товаров
 
 
-## Изображение проекта
+## Изображения проекта
 
 <img src="https://i.ibb.co/p3xHTGs/image.png" width="800px">
 <img src="https://i.ibb.co/gm3qwZ1/image.png" width="800px">
